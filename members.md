@@ -130,6 +130,7 @@ Format:
 | Harsh | [hsinha](https://github.com/hsinha) ||
 | Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
 | Howlden Coalfield | [howlden](https://github.com/howlden) | Law school dropout learning Python with 6.00x (edx.org), also want to learn C (low-level fascinates me, interface with hardware, etc.), and trying my hand at CSS/HTML and PHP on a Wordpress blog. Looking to kickstart a career in CS, need mentors and a plan. | 
+|Hung Nguyen | [peterpans01](https://github.com/peterpans01) | A little background in CS (programming, algorithms) want to improve it, wanna do it seriously, and want to participate in the open source projects need mentors and plan. Sr 4 my English.|
 | Hunter Morrell | [Rapturehawk](https://github.com/Rapturehawk) | Computer science student, currently know just Java. Looking to get a bit of experience in working on projects, both in Java and possibly in other languages. |
 | Ian | [boomzilla](https://github.com/boomzilla) ||
 | Ian Fairclough | [boole10](https://github.com/boole10)||
